@@ -38,8 +38,3 @@ O objetivo é aplicar os conceitos aprendidos ao longo do componente curricular,
 - Integração com uma **API REST pública** que retorna dados em formato JSON;
 - Exibição dinâmica do retorno da API direto na interface do app;
 - Interface simples, intuitiva e com foco em experiência do usuário (UX).
-
----
-
-## 🧩 Estrutura de Pastas
-
